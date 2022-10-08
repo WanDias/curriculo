@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 760px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: #3e1d0e;
+}
+
+h1, h2, h3, h4 {
+    color: #bd7468;
+}
+
+aside {
+    background-color: #ffcac5;
+    font-size: 0.90rem;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+p {
+    text-align: justify;
+}
+
+.title {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    color: #3e1d0e;
+}
+
