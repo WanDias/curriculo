@@ -1,3 +1,3 @@
 # Currículo
 
-Este é o meu currículo [GitHub Pages](https://wandias.github.io/curriculo/).
+Este é o meu currículo [Meu Currículo](https://wandias.github.io/curriculo/).
